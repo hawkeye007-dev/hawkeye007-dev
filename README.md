@@ -7,7 +7,7 @@
 <h3 align="center">A Full-Stack Developer Crafting Digital Experiences and working in 2 Startups</h3>
 
 <p align="center">
-  <a href="https://ruthvik07.vercel.app" target="_blank">
+  <a href="ruthvik07.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio">
   </a>
 </p>
