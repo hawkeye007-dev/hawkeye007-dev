@@ -21,9 +21,9 @@
 I'm a developer from 📍 **Hyderabad, India**, with a passion for building clean, efficient, and user-friendly web applications. I thrive on solving complex problems and I'm always eager to learn and adapt to new challenges in the ever-evolving world of tech.
 
 - 💼 Currently building as a **Web Developer**
-- 🛒 Previously **Full Stack Developer at Future Intelligence** — built a multitenant e-commerce platform
+- 🛒 Previously **Full Stack Developer at Future Intelligence** - built a multitenant e-commerce platform
 - 🎓 B.Tech CSE @ **Keshav Memorial Engineering College**
-- ⚔️ Attended **30+ hackathons** — always open for the next challenge
+- ⚔️ Attended **30+ hackathons** - always open for the next challenge
 
 ---
 
@@ -41,7 +41,7 @@ I'm a developer from 📍 **Hyderabad, India**, with a passion for building clea
   <tr>
     <td align="center" width="50%">
       <h3>🥇 Winner</h3>
-      <b>Ascent — Scaler National Hackathon</b><br/>
+      <b>Ascent - Scaler National Hackathon</b><br/>
       <sub>National-level victory</sub>
     </td>
     <td align="center" width="50%">
